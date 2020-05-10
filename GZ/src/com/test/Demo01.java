@@ -4,4 +4,6 @@ public interface Demo01 {
 	void addUser();
 	
 	void aaa();
+	
+	void bbb();
 }
