@@ -6,4 +6,7 @@ public interface Demo01 {
 	void aaa();
 	
 	void bbb();
+        
+        void ccc();
+
 }
