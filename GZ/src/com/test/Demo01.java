@@ -9,4 +9,5 @@ public interface Demo01 {
         
         void ccc();
 
+void ddd();
 }
