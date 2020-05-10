@@ -7,7 +7,8 @@ public interface Demo01 {
 	
 	void bbb();
         
-        void ccc();
-
-void ddd();
+    void ccc();
+    
+    //
+    void ddd(); 
 }
