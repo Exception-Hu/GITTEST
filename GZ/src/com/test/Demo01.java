@@ -7,4 +7,5 @@ public interface Demo01 {
 	void update();
 
 	void delete();
+void dd();
 }
