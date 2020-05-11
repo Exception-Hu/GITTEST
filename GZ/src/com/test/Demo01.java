@@ -11,4 +11,8 @@ public interface Demo01 {
     
     //
     void ddd(); 
+    
+    void test_brand();
+    
+    void master();
 }
