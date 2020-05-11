@@ -9,4 +9,6 @@ public interface Demo01 {
 	void delete();
 	
 	void ee();
+	
+	void ff();
 }
